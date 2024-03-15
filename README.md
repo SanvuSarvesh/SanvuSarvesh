@@ -1,6 +1,6 @@
 ### Hello Homosapien, I am Sanvu Sarvesh 🤓
 
-[![Sanvu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanvuSarvesh&show_icons=true)](https://github.com/SanvuSarvesh/github-readme-stats&show_icons=true)
+<img alt="my stats" align="left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=SanvuSarvesh&show_icons=true)](https://github.com/SanvuSarvesh/github-readme-stats&show_icons=true"
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanvuSarvesh)](https://github.com/SanvuSarvesh/github-readme-stats&layout=compact)
